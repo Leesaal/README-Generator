@@ -1,29 +1,33 @@
+# README Generator
 
-  # README Generator
+## Description
 
-  ## Description
-  A program that allows the user to utilise node.js to quickly generate a README file for a GitHub repository in the correct format.
+A program that allows the user to utilise node.js to quickly generate a README file for a GitHub repository in the correct format.
 
-  ## Installation
-  Run: npm install inquirer.
+## Installation
 
-  ## Usage
-  Run node index.js and answer the question prompts to generate a README file.
+Run: npm install inquirer.
 
-  ## Credits
-  N/A
+## Usage
 
-  
+Run node index.js and answer the question prompts to generate a README file.
 
-  ## Features
-  Utilises node.js, generates a readme file and efficient coding to spend more time on coding the program.
+## Credits
 
-  ## Tests
-  No
+N/A
 
-  ## Limitations
-  Limited error catching in place for user input.
+## Features
 
-  ## Link to repo
-  https://github.com/Leesaal/README-Generator
+Utilises node.js, generates a readme file and efficient coding to spend more time on coding the program.
 
+## Tests
+
+N/A
+
+## Limitations
+
+Limited error catching in place for user input.
+
+## Link to repo
+
+https://github.com/Leesaal/README-Generator
