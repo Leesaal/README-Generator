@@ -28,6 +28,12 @@ N/A
 
 Limited error catching in place for user input.
 
+## Video
+
+https://user-images.githubusercontent.com/118930290/228957967-3a07c385-d6a8-4e33-b126-5e549e8fff8b.mov
+
+
+
 ## Link to repo
 
 https://github.com/Leesaal/README-Generator
