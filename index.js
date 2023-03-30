@@ -93,8 +93,10 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(function (data) {
-        fs.writeFile("../README.md", generateMarkdown(data), (err) =>
-      err ? console.log(err) : console.log('Successfully created Readme.md!'))
+        // var fileName = "README.md";
+        fs.writeFile("README.md", generateMarkdown(data), (err) =>
+      err ? console.log(err) : console.log('Successfully created index.html!')
+);
     });
 }
 
