@@ -6,13 +6,21 @@ A program that allows the user to utilise node.js to quickly generate a README f
 
 ## Table of Contents
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [Credits](#Credits)
+
 [Features](#Features)
+
 [Tests](#Tests)
+
 [Limitations](#Limitations)
+
 [Video](#Video)
+
 [License](#License)
+
 [Link to repo](#Link-to-repo)
 
 ## Installation
