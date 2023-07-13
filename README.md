@@ -1,5 +1,7 @@
 # README Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 A program that allows the user to utilise node.js to quickly generate a README file for a GitHub repository in the correct format.
@@ -54,6 +56,7 @@ https://user-images.githubusercontent.com/118930290/228957967-3a07c385-d6a8-4e33
 ## License
 
 MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Link to repo
 
